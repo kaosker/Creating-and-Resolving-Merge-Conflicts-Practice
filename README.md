@@ -1,4 +1,3 @@
-# forth-branch
-Here is the third branch
+# first-branch
+Self-explanatory
 
-here comes the conflict
